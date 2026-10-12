@@ -31,5 +31,3 @@ Disclaimer: SecCRY is provided as-is without warranty. It has not been independe
 Core Contributors: Ayaan Khan (Lead Developer & Publisher) - Suleiman Sheikh (Contributor) - Rajesh Patel (Contributor)
 
 License: PolyForm Noncommercial 1.0.0 (see LICENSE file for full terms)
-
-Copyright (c) 2026 Ayaan Khan.
